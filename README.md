@@ -5,3 +5,7 @@ The current code is incredibly basic, but I'm looking to expand it into some CSS
 ## v1
 No rules currently defined. 
 No CSS styles. 
+## v2
+Addition of a turn counter.
+No CSS styling.
+###&copy;
