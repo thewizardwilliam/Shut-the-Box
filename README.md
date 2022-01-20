@@ -8,4 +8,4 @@ No CSS styles.
 ## v2
 Addition of a turn counter.
 No CSS styling.
-###&copy;
+### thewizardwilliam/Shut-the-Box
